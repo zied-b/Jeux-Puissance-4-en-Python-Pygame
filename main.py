@@ -1,5 +1,5 @@
 import pip 
-pip.main(['install','pygame']#supprime
+pip.main(['install','pygame']#pour install 
 
 import pygame
 
