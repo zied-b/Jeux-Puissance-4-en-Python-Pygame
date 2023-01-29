@@ -1,6 +1,6 @@
 import pip 
-pip.main(['install','streamlit'])
-# fs5hom b3d mt3eml run mara loula akhwa
+pip.main(['install','pygame']#supprime
+
 import pygame
 
 
